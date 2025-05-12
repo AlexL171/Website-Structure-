@@ -1,1 +1,16 @@
-
+  <section>
+            <h3> Price Table Assignment</h3>
+            <p>Look up HTML tags to create a price table - ask Mrs. May for more information about
+                what should be in your table. It should look like this:</p>
+            <img src="table.png" alt="A screenshot of a pricing table example"/>
+            <p>
+                It should have the following tags:
+                <ul>
+                    <li>A heading line</li>
+                    <li>An ordered and/or an unordered list</li>
+                    <li>A table with headings</li>
+                    <li>A paragraph</li>
+                    <li>Some form of text <stong>emphasis</stong></li>
+                </ul>
+            </p>
+        </section>
