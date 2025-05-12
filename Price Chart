@@ -1,9 +1,9 @@
      <table>
                 <tr class="row-color">
                     <th></th><br><span></span>
-                    <th>Jersey <br> <span>Custom</span></th>
-                    <th>Soccer ball <br><span>Custom</span></th>
-                    <th>Cleats <br><span>Custom</span></th>
+                    <th>Soccer <br> <span>Jersey</span></th>
+                    <th>Soccer <br><span>Ball</span></th>
+                    <th>Soccer <br><span>Cleats</span></th>
                 </tr>
                 <tr>
                     <td class="align">Price</td>
