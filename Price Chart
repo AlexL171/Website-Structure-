@@ -1,9 +1,9 @@
      <table>
                 <tr class="row-color">
                     <th>Items</th><br><span></span>
-                    <th>Soccer <br> <span>Jersey</span></th>
-                    <th>Soccer <br><span>Ball</span></th>
-                    <th>Soccer <br><span>Cleats</span></th>
+                    <th>Soccer      <br> <span>Jersey</span></th>
+                    <th>Soccer      <br><span>Ball</span></th>
+                    <th>Soccer      <br><span>Cleats</span></th>
                 </tr>
                 <tr class="row-color">
                     <td class="align">Price</td>
@@ -11,9 +11,63 @@
                     <td class="bold">$ 50</td>
                     <td class="bold">$ 110</td>
                 </tr>
+                           <tr class="row-color">
+                    <th>Items</th><br><span></span>
+                    <th>Baseball      <br> <span>Jersey</span></th>
+                    <th>Baseball      <br><span>Ball</span></th>
+                    <th>Baseball      <br><span>Bats</span></th>
+                </tr>
                 <tr class="row-color">
-                    <td class="align"><b>Features</b></td>
-                    <td>number/blue/green/tide</td>
-                    <td>stripes/name/black/blue</td>
-                    <td>stripes/Lgreen</td>
+                    <td class="align">Price</td>
+                    <td class="bold">$ 40</td>
+                    <td class="bold">$ 50</td>
+                    <td class="bold">$ 110</td>
+                </tr>
+             <tr class="row-color">
+                    <th>Items</th><br><span></span>
+                    <th>Basketball      <br> <span>Jersey</span></th>
+                    <th>Basketball      <br><span>Ball</span></th>
+                    <th>Basketball      <br><span>Footwear</span></th>
+                </tr>
+                <tr class="row-color">
+                    <td class="align">Price</td>
+                    <td class="bold">$ 40</td>
+                    <td class="bold">$ 50</td>
+                    <td class="bold">$ 110</td>
+                </tr>
+             <tr class="row-color">
+                    <th>Items</th><br><span></span>
+                    <th>Volleyball      <br> <span>Jersey</span></th>
+                    <th>Volleyball      <br><span>Ball</span></th>
+                    <th>Volleyball      <br><span>Volleyball shoes</span></th>
+                </tr>
+                <tr class="row-color">
+                    <td class="align">Price</td>
+                    <td class="bold">$ 40</td>
+                    <td class="bold">$ 50</td>
+                    <td class="bold">$ 110</td>
+                </tr>
+             <tr class="row-color">
+                    <th>Items</th><br><span></span>
+                    <th>Football      <br> <span>Jersey</span></th>
+                    <th>Football      <br><span>Football</span></th>
+                    <th>Football      <br><span>Helmets</span></th>
+                </tr>
+                <tr class="row-color">
+                    <td class="align">Price</td>
+                    <td class="bold">$ 40</td>
+                    <td class="bold">$ 50</td>
+                    <td class="bold">$ 150</td>
+                </tr>
+             <tr class="row-color">
+                    <th>Items</th><br><span></span>
+                    <th>Hockey      <br> <span>Jersey</span></th>
+                    <th>Hockey      <br><span>Hockey Sticks</span></th>
+                    <th>Hockey      <br><span>Helmets</span></th>
+                </tr>
+                <tr class="row-color">
+                    <td class="align">Price</td>
+                    <td class="bold">$ 40</td>
+                    <td class="bold">$ 70</td>
+                    <td class="bold">$ 140</td>
                 </tr>
